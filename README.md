@@ -7,5 +7,5 @@ brew install texlive
 
 ## Compile `resume.tex`:
 ```
-pdflatex resume.tex
+pdflatex "Resume - Aashish Gupta - Data Science.tex"
 ```
